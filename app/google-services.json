@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667596025964",
+    "project_id": "faribase-authentication",
+    "storage_bucket": "faribase-authentication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667596025964:android:5de6f05d1f9d851a092849",
+        "android_client_info": {
+          "package_name": "com.example.faribaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZbEM3JIHQ9wBUbDQVIuN5K6m0TU7EBck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
